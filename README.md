@@ -43,5 +43,5 @@ Test accuracy: 87.48%
 
 Train accuracy: 86.56%
 
-![Alt text](k410.png?raw=true "Title")
+![Alt text](https://github.com/achilleas96/rbfn-with-tensorflow/blob/master/k%3D410.png?raw=true "Title")
 
